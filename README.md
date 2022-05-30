@@ -54,6 +54,7 @@ Statiscally significant different with statistical power of 1.
 #### Rounds Played
 
 Percentage of players past round 30 - Gate30: 26.36%, Gate40: 25.46%.
+
 Percentage of players past round 40 - Gate30: 18.56%, gate40: 18.5%.
 
 ## Recommendation
