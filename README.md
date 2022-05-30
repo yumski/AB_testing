@@ -39,14 +39,16 @@ Statistics for players with less than 100 rounds played
 
 one-day: 39%, seven-day: 7%.
 
-####One day Retention Rates
+#### One day Retention Rates
 
 Gate30: 39%, Gate40: 38%.
+
 Statiscally significant different with statistical power of 0.68.
 
 #### Seven day Retention Rate
 
 Gate30: 7%, Gate40: 6%.
+
 Statiscally significant different with statistical power of 1.
 
 #### Rounds Played
